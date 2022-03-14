@@ -1,0 +1,4 @@
+<img src="link catre imagine", alt = "nume"/>
+src = link catre sursa imaginii
+alt = atribut, un nume care se afiseaza daca link-ul catre imagine e gresit sau se incarca greu
+&#<cod emoji> - asa adaugam emoji in html

@@ -1,0 +1,16 @@
+<a href="http://www.google.com">Click here for google</a>
+<a href="link catre un site">numele care sa apara pe site si pe care
+apasam ca ne ducem spre site</a>
+
+link-urile sunt mai ok daca le punem intr-o lista
+
+<ul>
+	<li><a href="link"> go to</a></li>
+</ul>
+
+imagine ca link:
+<a href="link catre sursa/sau direct linkul imaginii">
+	<img src="link-ul imaginii", alt="ceva"/></a>
+
+email ca link:
+	<li><a href="mailto:adresa de mail">Email me</a></li>

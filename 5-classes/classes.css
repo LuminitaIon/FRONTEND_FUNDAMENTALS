@@ -1,0 +1,72 @@
+body {
+  background-color: lightpink;
+  color: white;
+}
+
+
+p {
+  font-size: 25px;
+  display: inline;
+  background-color: teal;
+  padding-top: 5px;
+  padding-left: 3px;
+  padding-right: 3px;
+  padding-bottom: 4px;
+  margin-left: 5px;
+  color: orange;
+}
+
+ol {
+  font-size: 20px;
+}
+
+ul {
+  font-size: 15px;
+}
+
+h1 {
+  padding: 15px;
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 20px;
+  text-align: center;
+}
+
+h2 {
+  padding: 15px;
+  width: 100px;
+  
+}
+
+h3 {
+  padding: 15px;
+}
+
+span > p {
+  font-style: italic;
+}
+
+span>#welcome {
+  text-decoration: underline;
+}
+
+.special {
+   font-style: normal; 
+   color: red;
+}
+
+.orlist {
+  list-style-type: upper-roman;
+
+}
+
+.ullist {
+    list-style-image: url('https://ih1.redbubble.net/image.130997298.2423/flat,128x128,075,t.jpg');
+    width: 50px;
+    height: 20px;
+    display: inline;
+    
+}
+
+
+/* https://www.w3schools.com/cssref/ */

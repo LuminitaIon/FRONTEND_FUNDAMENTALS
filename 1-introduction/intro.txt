@@ -1,0 +1,26 @@
+# What is HTML?
+-hypertext markup language - standard markup language used to create web pages
+- basically tells your browser how to display web pages
+
+# What does HTML look like?
+- HTML uses tags and elements to enclose different parts of the content
+
+</p> - close tags
+<p> - paragraf
+
+<p>My name is Lumi</p> 
+<p>What is your name?</p>
+- two different paragrafs
+
+- <h1></h1> - header
+- hearders goes up to h6, usualy up to h3
+<strong></strong> - bold text
+<em></em> - emphesis - italian text
+
+<ol>
+	<li>elements here</li>
+</ol> - order list
+
+<ul> - unordered list
+	<li> li - list index i think</li>
+</ul>

@@ -1,0 +1,32 @@
+body {
+  background-color: lightpink;
+}
+
+p {
+  font-size: 25px;
+  display: inline;
+}
+
+ol {
+  font-size: 20px;
+}
+
+ul {
+  font-size: 15px;
+}
+
+h1 {
+  padding: 15px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+h2 {
+  padding: 15px;
+}
+
+h3 {
+  padding: 15px;
+}
+
+/* https://www.w3schools.com/cssref/ */
